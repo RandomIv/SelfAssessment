@@ -9,11 +9,11 @@
   - bind
   - apply
   - instanceof: 👂 heard
-  - ...spread
-  - ...rest
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring
-  - generator
+  - generator: 🖐️ used
   - iterator: 👂 heard
   - async generator
   - async iterator
@@ -22,8 +22,8 @@
   - IIFE
   - global
   - globalThis
-  - window
-  - getters and setters
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype
   - equality operators: 🖐️ used
@@ -70,9 +70,9 @@
   - mixin: 👂 heard
   - extend
   - typed arrays
-  - Map: 👂 heard
-  - Set: 👂 heard
-  - undefined
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy
   - weak collections
@@ -83,7 +83,7 @@
   - BigInt: 👂 heard
 - Infrastructure
   - V8: 👂 heard
-  - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 👂 heard
