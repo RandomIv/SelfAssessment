@@ -36,12 +36,12 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects
-  - closure: 👂 heard
+  - closure: 🖐️ used
   - partial application
   - curry
   - higher order
   - recursion: 🖐️ used
-  - callback: 
+  - callback: 🖐️ used
   - listener: 👂 heard
   - compose
   - pipe
@@ -63,15 +63,15 @@
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
-  - linked list: 👂 heard
+  - linked list: 🖐️ used
   - doubly list
   - unrolled list
   - circular list
-  - queue: 👂 heard
-  - stack: 👂 heard
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque: 👂 heard
   - tree: 👂 heard
-  - graph: 👂 heard
+  - graph: 🖐️ used
   - iterator: 👂 heard
   - mutable state
   - immutable state
@@ -86,7 +86,7 @@
   - garbage collection
   - refactoring: 👂 heard
   - code review: 👂 heard
-  - antipatterns
+  - antipatterns: 👂 heard
   - paradigm: 👂 heard
   - algorithm: 👂 heard
   - magic numbers: 👂 heard
@@ -102,5 +102,5 @@
   - exception: 🖐️ used
   - return early: 🖐️ used
   - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
