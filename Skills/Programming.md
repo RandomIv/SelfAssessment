@@ -20,7 +20,7 @@
   - reference types: 🖐️ used
   - flag
   - lexical scope
-  - code block
+  - code block: 👂 heard
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment
@@ -36,10 +36,10 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects
-  - closure
+  - closure: 👂 heard
   - partial application
   - curry
-  - higher order:
+  - higher order
   - recursion: 🖐️ used
   - callback: 
   - listener: 👂 heard
@@ -96,7 +96,7 @@
   - spaghetti: 👂 heard
   - silver bullet
   - not invented here
-  - dead code
+  - dead code: 👂 heard
   - unreachable code: 👂 heard
   - duplicate code
   - exception: 🖐️ used
